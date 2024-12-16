@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Roman. I'm 23 y. o. My nickname is @Observer-of-user
-- 👀 I’m interested in all things of the future and all about health
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on coding
-- 📫 You can reach me by telegram @FirstFreeDay
-- 😄 Pronouns: hi/his/him
+- 👋 Hi, I’m beginner programmer. My name is Roman Yantsen. I'm 23 y. o. My nickname is @Observer-of-user.
+- 👀 I’m interested in everything of the future and health.
+- 🌱 I’m currently learning AI.
+- 💞️ I’m looking to collaborate in programming.
+- 📫 You can reach me by Telegram app @FirstFreeDay.
+- 😄 Pronouns: hi/his/him.
 - ⚡ Fun fact: I can't stand funny facts. But if you want, you can tell me a funny fact, I hope it's really funny.
 
 <!---
