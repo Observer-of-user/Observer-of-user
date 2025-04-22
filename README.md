@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything of the future and health.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate in programming.
-- 📫 You can reach me by Telegram app @FirstFreeDay.
+- 📫 You can reach me by Telegram app @TgPersonalName.
 - 😄 Pronouns: hi/his/him.
 - ⚡ Fun fact: I can't stand funny facts. But if you want, you can tell me a funny fact, I hope it's really funny.
 
